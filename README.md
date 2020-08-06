@@ -1,5 +1,5 @@
 # ibexshells
-Ibex Shells and Experiments for Sharing
+## Ibex Shells and Experiments for Sharing
 
 **I am not profiting off of this in any way, just trying to share how I've programmed experiments in the past. All credit goes to Alex Drummond and the Ibex Farm server.**
 
